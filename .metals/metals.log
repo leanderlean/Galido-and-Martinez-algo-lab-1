@@ -1,0 +1,245 @@
+2026.01.11 18:52:09 INFO  Started: Metals version 1.6.4 in folders 'C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1' for client Visual Studio Code 1.108.0.
+2026.01.11 18:52:09 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.11 18:52:10 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:11 WARN  no build tool detected in workspace 'C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.01.11 18:52:11 WARN  Build server is not auto-connectable.
+2026.01.11 18:52:12 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java
+2026.01.11 18:52:12 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Main.java
+2026.01.11 18:52:13 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/Algo-lab_1/lab1/src/net/javaguides/Percolation.java. Output:
+
+2026.01.11 18:52:15 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java
+2026.01.11 18:52:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:52:23 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java
+2026.01.11 18:52:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:53:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 18:53:40 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 18:53:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:53:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:53:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:54:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:54:34 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 18:54:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:54:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:54:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:55:34 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 18:55:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:55:35 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:55:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:57:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:57:25 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 18:57:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:57:25 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 18:57:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:47 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:49 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 19:00:49 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:50 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:50 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:51 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:51 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:51 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:55 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 19:00:55 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:55 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:00:59 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:08 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:01:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:33 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:34 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:35 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:02:58 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:03:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:03:22 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 19:03:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:03:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:03:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:03:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:03:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:03:28 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 19:03:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:03:29 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:09 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+Jan 11, 2026 7:04:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "chat-editing-snapshot-text-model:/c%3A/Users/User/OneDrive/Desktop/Algo-lab_1/lab1/src/net/javaguides/PercolationStats.java?%7B%22session%22%3A%7B%22%24mid%22%3A1%2C%22external%22%3A%22vscode-chat-session%3A%2F%2Flocal%2FZWIwZTU1M2MtYTU2MC00OTI3LWI5ZTItMjUzOTE4ODQzNTM0%22%2C%22path%22%3A%22%2FZWIwZTU1M2MtYTU2MC00OTI3LWI5ZTItMjUzOTE4ODQzNTM0%22%2C%22scheme%22%3A%22vscode-chat-session%22%2C%22authority%22%3A%22local%22%7D%2C%22requestId%22%3A%22request_2f7047e8-0100-4238-b7fd-5947013a41fd%22%2C%22undoStop%22%3A%22__epoch_9007199254740991%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "chat-editing-snapshot-text-model" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:789)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2026.01.11 19:04:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:21 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 19:04:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:21 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:23 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:26 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java
+2026.01.11 19:04:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:30 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:30 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:30 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:31 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java
+2026.01.11 19:04:31 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:31 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/Algo-lab_1/lab1/src/net/javaguides/Percolation.java. Output:
+
+2026.01.11 19:04:31 INFO  Created report: Optional[file:///C:/Users/User/OneDrive/Desktop/Algo-lab_1/lab1/src/net/javaguides/Percolation.java]
+2026.01.11 19:04:31 INFO  QDox parse error in file:///C:/Users/User/OneDrive/Desktop/Algo-lab_1/lab1/src/net/javaguides/Percolation.java (full report at: "C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\.metals\.reports\metals-full\2026-01-11\r_qdox-error_19-04-31-786.md")
+2026.01.11 19:04:31 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 19:04:32 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:32 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:32 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:32 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:04:38 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java
+2026.01.11 19:04:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:41 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java
+2026.01.11 19:04:41 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:41 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:04:43 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:05:42 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.11 19:05:43 WARN  no build target for: C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java
+2026.01.11 19:05:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:05:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:05:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:05:50 INFO  Shutting down server
+2026.01.11 19:05:50 INFO  shutting down Metals
+2026.01.11 19:05:50 INFO  Exiting server
+2026.01.11 19:06:19 INFO  Started: Metals version 1.6.4 in folders 'C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1' for client Visual Studio Code 1.108.0.
+2026.01.11 19:06:20 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.11 19:06:20 WARN  no build target for: C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java
+2026.01.11 19:06:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:06:21 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.11 19:06:21 WARN  no build tool detected in workspace 'C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.01.11 19:06:21 WARN  Build server is not auto-connectable.
+2026.01.11 19:06:22 INFO  time: code lens generation in 1.45s
+2026.01.11 19:06:51 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:06:51 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:06:51 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+Jan 11, 2026 7:06:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.01.11 19:06:51 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+Jan 11, 2026 7:06:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jan 11, 2026 7:06:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.01.11 19:06:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:06:52 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:06:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:12:56 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java
+2026.01.11 19:12:56 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Main.java
+2026.01.11 19:13:53 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java
+2026.01.11 19:14:14 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java
+2026.01.11 19:14:14 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Desktop/Algo-lab_1/lab1/src/net/javaguides/PercolationGUI.java. Output:
+
+2026.01.11 19:14:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:14:15 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java
+2026.01.11 19:14:40 INFO  no build target found for C:\Users\User\OneDrive\Desktop\JavaAlgo\JavaTutorial\FirstGUI.java. Using fallback presentation compiler.
+2026.01.11 19:14:42 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java
+2026.01.11 19:14:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:14:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:14:44 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:14:46 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:14:47 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+Jan 11, 2026 7:14:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+2026.01.11 19:15:00 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java
+2026.01.11 19:15:00 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:15:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Percolation.java. Using fallback presentation compiler.
+2026.01.11 19:15:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\Main.java. Using fallback presentation compiler.
+2026.01.11 19:16:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationStats.java. Using fallback presentation compiler.
+2026.01.11 19:45:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+Jan 11, 2026 7:45:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 100
+2026.01.11 19:45:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:19 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java
+2026.01.11 19:45:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:45:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:48:24 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:48:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:48:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:48:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
+2026.01.11 19:48:35 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Algo-lab_1\lab1\src\net\javaguides\PercolationGUI.java. Using fallback presentation compiler.
