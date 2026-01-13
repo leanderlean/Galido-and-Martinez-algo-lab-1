@@ -7,114 +7,78 @@ import java.awt.event.ActionListener;
 import java.util.Random;
 
 public class PercolationGUI extends JFrame {
-    private int n;
-    private boolean[][] grid;
-    private Percolation percolation;
-    private DrawingPanel drawingPanel;
-    private JTextField countField;
-    private JButton openButton;
-    private JButton resetButton;
+    private final int n;
+    private final boolean[][] grid;
+    private final Percolation percolation;
+    private final DrawingPanel drawingPanel;
+    private final JTextField countField;
+    private final JButton openButton;
+    private final JButton resetButton;
 
-    public PercolationGUI() {
-        // Ask for grid size N
-        String inputN = JOptionPane.showInputDialog(null, "Enter grid size N:", "Percolation Setup", JOptionPane.QUESTION_MESSAGE);
-        try {
-            n = Integer.parseInt(inputN);
-        } catch (NumberFormatException e) {
-            n = 20; // Default
-        }
-
-        // Initialize grid (all false/black)
+    public PercolationGUI(int size) {
+        n = size > 0 ? size : 20;
         grid = new boolean[n][n];
-        percolation = new Percolation();
+        percolation = new Percolation(n);
 
-        initUI();
-    }
-
-    private void initUI() {
         setTitle("Percolation Visualizer");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
 
-        // Drawing Panel
         drawingPanel = new DrawingPanel();
         add(drawingPanel, BorderLayout.CENTER);
 
-        // Control Panel
         JPanel controlPanel = new JPanel();
         controlPanel.setLayout(new FlowLayout());
 
-        JLabel label = new JLabel("Blocks to open:");
         countField = new JTextField(10);
-        openButton = new JButton("Open");
+        openButton = new JButton("Open Random Sites");
         resetButton = new JButton("Reset");
 
-        openButton.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                openBlocks();
-            }
-        });
-
-        resetButton.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                resetGrid();
-            }
-        });
-
-        controlPanel.add(label);
+        controlPanel.add(new JLabel("Sites to open:"));
         controlPanel.add(countField);
         controlPanel.add(openButton);
         controlPanel.add(resetButton);
-
         add(controlPanel, BorderLayout.SOUTH);
+
+        openButton.addActionListener(e -> openRandomSites());
+        resetButton.addActionListener(e -> resetGrid());
 
         setSize(600, 650);
         setLocationRelativeTo(null);
+        setVisible(true);
     }
 
-    private void openBlocks() {
+    private void openRandomSites() {
         try {
             int count = Integer.parseInt(countField.getText());
             int opened = 0;
-            Random random = new Random();
-            
-            // Safety check to prevent infinite loop if asking for more than available
-            int currentOpen = 0;
-            for(int i=0; i<n; i++) for(int j=0; j<n; j++) if(grid[i][j]) currentOpen++;
-            
-            if (currentOpen + count > n * n) {
-                JOptionPane.showMessageDialog(this, "Cannot open more blocks than available!");
-                return;
-            }
+            Random rand = new Random();
 
             while (opened < count) {
-                int r = random.nextInt(n);
-                int c = random.nextInt(n);
-                if (!grid[r][c]) {
+                int r = rand.nextInt(n);
+                int c = rand.nextInt(n);
+                if (!percolation.isOpen(r, c)) {
+                    percolation.open(r, c);
                     grid[r][c] = true;
                     opened++;
                 }
             }
 
-            // check percolation
-            percolation.percolates(grid, n);
-            
-            // update UI
             drawingPanel.repaint();
-
         } catch (NumberFormatException ex) {
-            JOptionPane.showMessageDialog(this, "Please enter a valid number.");
+            JOptionPane.showMessageDialog(this, "Enter a valid number.");
         }
     }
 
     private void resetGrid() {
-        grid = new boolean[n][n];
-        // Reset percolation path state implies re-running percolates or just simple repaint
-        // Since percolates stores state in the object, we just re-run it on empty grid or handle null path
-        // To be clean, we can re-run percolates(grid, n) which returns false and sets path to null/empty
-        percolation.percolates(grid, n); 
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < n; j++) grid[i][j] = false;
+
+        // recreate Percolation object
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < n; j++)
+                if (grid[i][j]) percolation.open(i, j);
+
         drawingPanel.repaint();
     }
 
@@ -122,49 +86,27 @@ public class PercolationGUI extends JFrame {
         @Override
         protected void paintComponent(Graphics g) {
             super.paintComponent(g);
-            if (n == 0) return;
+            int cellW = getWidth() / n;
+            int cellH = getHeight() / n;
 
-            int panelWidth = getWidth();
-            int panelHeight = getHeight();
-            int cellWidth = panelWidth / n;
-            int cellHeight = panelHeight / n;
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (percolation.isFull(i, j)) g.setColor(Color.BLUE);
+                    else if (grid[i][j]) g.setColor(Color.WHITE);
+                    else g.setColor(Color.BLACK);
+                    g.fillRect(j * cellW, i * cellH, cellW, cellH);
 
-            boolean[][] path = percolation.getPercolatedPath();
-
-            for (int r = 0; r < n; r++) {
-                for (int c = 0; c < n; c++) {
-                    int x = c * cellWidth;
-                    int y = r * cellHeight;
-
-                    // Logic for colors
-                    // Path of percolation -> Blue
-                    // Opened -> White
-                    // Not Opened -> Black
-                    
-                    if (path != null && path[r][c]) {
-                        g.setColor(Color.BLUE);
-                    } else if (grid[r][c]) {
-                        g.setColor(Color.WHITE);
-                    } else {
-                        g.setColor(Color.BLACK);
-                    }
-                    
-                    g.fillRect(x, y, cellWidth, cellHeight);
-                    
-                    // Optional: Draw grid lines for better visibility
                     g.setColor(Color.GRAY);
-                    g.drawRect(x, y, cellWidth, cellHeight);
+                    g.drawRect(j * cellW, i * cellH, cellW, cellH);
                 }
             }
         }
     }
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(new Runnable() {
-            @Override
-            public void run() {
-                new PercolationGUI().setVisible(true);
-            }
-        });
+        String input = JOptionPane.showInputDialog("Enter grid size N:");
+        int size = 20;
+        try { size = Integer.parseInt(input); } catch (Exception ignored) {}
+        new PercolationGUI(size);
     }
 }
